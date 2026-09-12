@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-12T16:12:37.642Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-12T16:12:49.378Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
