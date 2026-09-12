@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-12T16:05:46.930Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-12T16:05:58.497Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -39,3 +39,9 @@ Se busca ampliar la idea base del modelo de negocio y fijar lineamientos necesar
 ### RF-01: cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica (Funcional)
 
 Se busca un listado de actividades para la construccion del prototipo, con una valoracion de tiempos estimados. Mas una declaracion de valor hora cobrado de espectativa
+
+## RO-07: cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica
+
+### RF-01: cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica (Funcional)
+
+_Sin detalle cargado._
