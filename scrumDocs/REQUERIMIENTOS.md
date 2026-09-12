@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-12T16:12:51.265Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-12T16:15:28.934Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -51,3 +51,9 @@ _Sin detalle cargado._
 ### RF-01: armado de prototipo (Funcional)
 
 una vez llegadas todas las partes, se procede a armar y adaptar la parte mecanica, posteriormente se hacen las conexiones electronicas, y finalmente se carga el software y se prueba, los comandos de conduccion manuales
+
+## RO-09: compra de los materiales
+
+### RF-01: compra de los materiales (Funcional)
+
+la compra de los materiales implica la documentacion de la misma, incluyendo proveedores, costos (envios e impuestos) y tiempos
