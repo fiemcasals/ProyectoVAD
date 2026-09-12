@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-12T16:08:44.317Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-12T16:12:12.062Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -45,3 +45,9 @@ Se busca un listado de actividades para la construccion del prototipo, con una v
 ### RF-01: cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica (Funcional)
 
 _Sin detalle cargado._
+
+## RO-08: armado de prototipo
+
+### RF-01: armado de prototipo (Funcional)
+
+una vez llegadas todas las partes, se procede a armar y adaptar la parte mecanica, posteriormente se hacen las conexiones electronicas, y finalmente se carga el software y se prueba, los comandos de conduccion manuales
