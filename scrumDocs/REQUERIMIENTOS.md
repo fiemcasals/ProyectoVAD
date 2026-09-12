@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-12T15:54:20.697Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-12T15:57:25.998Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -19,3 +19,11 @@ En la reunion se busco repartir roles a fin de que cada especialista busque un p
 ### RF-01: Presupuesto mecanico (Funcional)
 
 en linea con la reunion anterior. Responsable directo victor
+
+## RO-04: Presupuestacion parte electronica
+
+### RF-01: Presupuestacion parte electronica (Funcional)
+
+1. hay que hacer una reevaluacion de los componentes ya evaluados en la parte de informatica
+2. hay que revisar los accesorios, luces, pantallas, sirenas, etc.
+3. estudio especial de la alimentacion electrica para soportar la jetson, la camara stereo, el lidar, los dos motores electricos, y el sistema de iluminacion(giros) y bocinas
