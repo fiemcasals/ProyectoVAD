@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- mauri_vad
 
-_Generado automaticamente el 2026-09-12T15:54:21.748Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-12T15:57:26.914Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -12,6 +12,9 @@ graph TD
   end
   subgraph US_1789214807204["RO-03: Presupuesto mecanico"]
     REQ_1789214807210["RF-01: Presupuesto mecanico"]
+  end
+  subgraph US_1789228644037["RO-04: Presupuestacion parte electronica"]
+    REQ_1789228644049["RF-01: Presupuestacion parte electronica"]
   end
   REQ_1789213601498 --> REQ_1789213867404
   REQ_1789213867404 --> REQ_1789214807210
