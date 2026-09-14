@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-14T17:08:27.529Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-14T17:08:33.839Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -34,7 +34,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 - Estimado: 18h
 
 ### RF-01 — cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica
-- Estimado: 24h
+- Estimado: 18h
 
 ### RF-01 — armado de prototipo
 - Estimado: 4h
