@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-14T15:01:03.006Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-14T15:01:08.074Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -13,7 +13,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 5 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-06 | — | — | Hacer | tejada_electr_vad | RF-01 | — |
 | 6 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-07 | — | — | Hacer | victor_mec_vad | RF-01 | — |
 | 7 | RF-01 | armado de prototipo | RO-08 | — | — | Hacer | po-mv | RF-01 | — |
-| 8 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | mauri_vad | RF-01 | — |
+| 8 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | victor_mec_vad | RF-01 | — |
 | 9 | RF-01 | Presupuestacion parte electronica | RO-04 | — | Entrega de presupuesto de pre-factibilidad | Hacer | tejada_electr_vad | RF-01 | — |
 
 ## Detalle
