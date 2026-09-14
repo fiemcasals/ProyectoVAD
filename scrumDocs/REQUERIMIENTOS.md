@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-14T17:00:28.317Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-14T17:00:33.363Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -51,10 +51,6 @@ _Sin detalle cargado._
 ### RF-01: armado de prototipo (Funcional)
 
 una vez llegadas todas las partes, se procede a armar y adaptar la parte mecanica, posteriormente se hacen las conexiones electronicas, y finalmente se carga el software y se prueba, los comandos de conduccion manuales
-
-### RF-02: Instalacion de software de navegacion por camara (Funcional)
-
-Se instalaran los sistemas que permiten navegar por camara, sin el gps, ni el lidar. a fin de hacer pruebas de sistema parciales
 
 ## RO-09: compra de los materiales
 
