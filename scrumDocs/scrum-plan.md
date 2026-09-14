@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-14T17:01:17.833Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-14T17:01:31.039Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -15,7 +15,6 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 7 | RF-01 | armado de prototipo | RO-08 | — | — | Hacer | po-mv | RF-01 | — |
 | 8 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | victor_mec_vad | RF-01 | — |
 | 9 | RF-01 | Presupuestacion parte electronica | RO-04 | — | Entrega de presupuesto de pre-factibilidad | Hacer | tejada_electr_vad | RF-01 | — |
-| 10 | RF-02 | Instalacion de software de navegacion por camara | RO-08 | — | — | Hacer | mauri_vad | RF-01 | — |
 
 ## Detalle
 
@@ -45,6 +44,3 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 
 ### RF-01 — Presupuestacion parte electronica
 - Estimado: 6h
-
-### RF-02 — Instalacion de software de navegacion por camara
-- Estimado: 4h
