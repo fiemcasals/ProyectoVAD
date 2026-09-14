@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-14T16:43:05.591Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-14T16:43:21.701Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -40,7 +40,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 - Estimado: 4h
 
 ### RF-01 — Presupuesto mecanico
-- Estimado: 6h
+- Estimado: 30h
 
 ### RF-01 — Presupuestacion parte electronica
 - Estimado: 30h
