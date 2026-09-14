@@ -1,12 +1,12 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-14T16:44:54.063Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-14T16:48:22.681Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
 | Orden | Código | Requerimiento | Historia de Usuario | Módulo | Entrega | Estado | Desarrollador | Depende de | Rechazos |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | RF-01 | Reunion con Sebastian | RO-01 | — | — | Hacer | mauri_vad | — | — |
+| 1 | RF-01 | Reunion con Sebastian | RO-01 | — | — | Hecho | mauri_vad | — | — |
 | 2 | RF-01 | Reun confirmacion (con seba y chiri) | RO-05 | — | — | Hacer | po-mv | — | — |
 | 3 | RF-01 | compra de los materiales | RO-09 | — | — | Hacer | mauri_vad | — | — |
 | 4 | RF-01 | Reunion con el equipo de ingenieros (estudio de prefactibilidad) | RO-02 | — | — | Hacer | po-mv | RF-01 | — |
