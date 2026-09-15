@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-15T23:12:35.465Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-15T23:12:59.276Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -16,6 +16,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 8 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | victor_mec_vad | RF-01 | — |
 | 9 | RF-01 | Presupuestacion parte electronica | RO-04 | — | Entrega de presupuesto de pre-factibilidad | Hacer | tejada_electr_vad | RF-01 | — |
 | 10 | RNF-01 | Presupuesto informatico | RO-02 | — | — | Hacer | mauri_vad | RF-01 | — |
+| 11 | RNF-02 | Presupuesto informatico | RO-02 | — | — | Hacer | mauri_vad | RF-01 | — |
 
 ## Detalle
 
@@ -47,4 +48,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 - Estimado: 6h
 
 ### RNF-01 — Presupuesto informatico
+- Estimado: 4h
+
+### RNF-02 — Presupuesto informatico
 - Estimado: 4h
