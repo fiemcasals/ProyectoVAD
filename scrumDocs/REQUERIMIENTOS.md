@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-15T20:16:44.536Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-15T23:12:37.440Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -13,6 +13,10 @@ En esta reunion se planteo la inquietud de desarrollar un sistema de reparto aut
 ### RF-01: Reunion con el equipo de ingenieros (estudio de prefactibilidad) (Funcional)
 
 En la reunion se busco repartir roles a fin de que cada especialista busque un presupuesto en su area. Priorizando la calidad y la escalabilidad en un sistema de control de una plataforma movil, para un terreno llano, y una capacidad de carga maxima de 20/30 kg
+
+### RNF-01: Presupuesto informatico (No funcional)
+
+Se calcula en base a una capacidad computacional capaz de procesar redes neuronal y hacer procesamiento de imagenes
 
 ## RO-03: Presupuesto mecanico
 
