@@ -1,6 +1,6 @@
 # Historias de Usuario -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T16:04:35.332Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T16:05:26.635Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: generacion de carga de mapas y puntos de ruteo
 
@@ -26,3 +26,5 @@ Esta va a ser la raiz para cargar todos los aspecots necesarios a fin de permiti
 
 - 1.que tenga un sistema de login
 - 2. que tenga un sistema de recuperacion de contraseña
+- 3. que tenga una interfaz amigable
+- 4. que tenga un sistema de registros
