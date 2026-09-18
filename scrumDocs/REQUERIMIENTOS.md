@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:28:37.464Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:38:20.212Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -55,6 +55,10 @@ _Sin detalle cargado._
 ### RF-01: armado de prototipo (Funcional)
 
 una vez llegadas todas las partes, se procede a armar y adaptar la parte mecanica, posteriormente se hacen las conexiones electronicas, y finalmente se carga el software y se prueba, los comandos de conduccion manuales
+
+### RF-02: Implementacion de sistema de conduccion basico (Funcional)
+
+Lo que se busca es generar un joystick que nos permita la teleoperacion. Usando en el mejor de los casos una conexion a internet, o la misma red local generada por la jetson
 
 ## RO-09: compra de los materiales
 
