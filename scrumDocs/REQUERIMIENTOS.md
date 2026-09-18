@@ -1,6 +1,17 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:46:24.563Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:54:28.106Z -- no editar a mano, se sobreescribe en cada publicacion._
+
+## HU-01: generacion de carga de mapas y puntos de ruteo
+
+### RF-01: Interfaz de carga de mapa virtual (Funcional)
+
+generar un html, que me permita cargar un mapa y visualizarlo en la pantalla.
+condiciones de aprobacion:
+
+1.tengo que acceder desde un sistema de login.
+2. se tiene que poder guardar o eliminar los mapas
+
 
 ## RO-01: Reunion con Sebastian
 
