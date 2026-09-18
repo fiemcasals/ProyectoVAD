@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:55:32.975Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:58:23.422Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: generacion de carga de mapas y puntos de ruteo
 
@@ -12,6 +12,10 @@ condiciones de aprobacion:
 1.tengo que acceder desde un sistema de login.
 2. se tiene que poder guardar o eliminar los mapas
 
+
+### RF-02: Sistema de registro a la app (Funcional)
+
+registro tradicional. Manda una solicitud al administrador,el administrador por el momento es mauriciocasals90@gmail.com. Una vez que lo registra, (nos vamos a conectar de manera remota) el usuario nuevo registrado puede entrar al sistema y cargar mapas/puntos...
 
 ## RO-01: Reunion con Sebastian
 
