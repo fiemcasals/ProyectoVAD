@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T14:57:37.957Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:27:39.623Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -61,3 +61,7 @@ una vez llegadas todas las partes, se procede a armar y adaptar la parte mecanic
 ### RF-01: compra de los materiales (Funcional)
 
 la compra de los materiales implica la documentacion de la misma, incluyendo proveedores, costos (envios e impuestos) y tiempos
+
+### RNF-01: Revision de componentes por falta de stock (No funcional)
+
+el convertidor de usb a can fue remplazado por otro similar.
