@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:58:27.055Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:58:37.330Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -49,5 +49,4 @@ graph TD
   REQ_1789229530082 --> REQ_1789745898072
   REQ_1789229726537 --> REQ_1789745256476
   REQ_1789745256476 --> REQ_1789745304032
-  REQ_1789747100894 --> REQ_1789746865887
 ```
