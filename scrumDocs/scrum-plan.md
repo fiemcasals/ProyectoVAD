@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-18T15:54:43.805Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-18T15:55:04.620Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -9,7 +9,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 1 | RF-01 | Reunion con Sebastian | RO-01 | — | — | Hecho | mauri_vad | — | — |
 | 2 | RF-01 | Reun confirmacion (con seba y chiri) | RO-05 | — | — | Hacer | po-mv | — | — |
 | 3 | RF-01 | compra de los materiales | RO-09 | — | — | Hacer | mauri_vad | — | — |
-| 4 | RF-01 | Interfaz de carga de mapa virtual | HU-01 | — | — | Hacer | seba | — | — |
+| 4 | RF-01 | Interfaz de carga de mapa virtual | HU-01 | — | — | Hacer | mauri_vad | — | — |
 | 5 | RF-01 | Reunion con el equipo de ingenieros (estudio de prefactibilidad) | RO-02 | — | — | Hecho | po-mv | RF-01 | — |
 | 6 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-06 | — | — | Hacer | tejada_electr_vad | RF-01 | — |
 | 7 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-07 | — | — | Hacer | victor_mec_vad | RF-01 | — |
