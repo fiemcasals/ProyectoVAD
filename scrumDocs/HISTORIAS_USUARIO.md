@@ -1,6 +1,6 @@
 # Historias de Usuario -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:59:16.118Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T16:04:00.427Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: generacion de carga de mapas y puntos de ruteo
 
@@ -17,3 +17,11 @@ La idea es poder cargar un mapa de los distintos lugares de navegacion y poder s
 ### Detalle Tecnico y Reglas de Negocio
 
 La idea es que se pueda configurar rapidamente el escenario donde va a operar el vehiculo
+
+## HU-02: Sistema central de operacion del vehiculo
+
+Esta va a ser la raiz para cargar todos los aspecots necesarios a fin de permitir la operacion y funcionalidades extras del vehiculo. vamos a empezar por la carga de mapas, una vez que tengamos el nucleo con un rol admin y usuarios con privilegios.(privilegios adefinir a futuro segun las funcionalidades que se le vayan creando)
+
+### Criterios de Aceptacion
+
+- 1.que tenga un sistema de login
