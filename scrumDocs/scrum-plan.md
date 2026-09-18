@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-18T15:28:35.268Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-18T15:38:18.225Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -18,6 +18,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 10 | RNF-01 | Presupuesto informatico | RO-02 | — | — | Hacer | mauri_vad | RF-01 | — |
 | 11 | RNF-02 | Compra consolidada | RO-09 | — | — | Hacer | mauri_vad | RNF-01 | — |
 | 12 | RF-01 | armado de prototipo | RO-08 | — | — | Hacer | mauri_vad | RNF-02 | — |
+| 13 | RF-02 | Implementacion de sistema de conduccion basico | RO-08 | — | — | Hacer | mauri_vad | RF-01 | — |
 
 ## Detalle
 
@@ -55,4 +56,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 - Estimado: 4h
 
 ### RF-01 — armado de prototipo
+- Estimado: 4h
+
+### RF-02 — Implementacion de sistema de conduccion basico
 - Estimado: 4h
