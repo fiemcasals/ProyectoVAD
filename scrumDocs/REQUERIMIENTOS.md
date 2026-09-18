@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:54:28.106Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:54:46.557Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: generacion de carga de mapas y puntos de ruteo
 
