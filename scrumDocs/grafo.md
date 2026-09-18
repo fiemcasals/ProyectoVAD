@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:55:33.991Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:58:24.480Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -37,6 +37,7 @@ graph TD
   end
   subgraph US_1789746274448["HU-01: generacion de carga de mapas y puntos de ruteo"]
     REQ_1789746865887["RF-01: Interfaz de carga de mapa virtual"]
+    REQ_1789747100894["RF-02: Sistema de registro a la app"]
   end
   REQ_1789213601498 --> REQ_1789213867404
   REQ_1789213867404 --> REQ_1789513953383
@@ -48,4 +49,5 @@ graph TD
   REQ_1789229530082 --> REQ_1789745898072
   REQ_1789229726537 --> REQ_1789745256476
   REQ_1789745256476 --> REQ_1789745304032
+  REQ_1789747100894 --> REQ_1789746865887
 ```
