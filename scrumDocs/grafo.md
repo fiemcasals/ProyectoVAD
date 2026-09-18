@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:28:38.650Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:38:21.182Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -28,6 +28,7 @@ graph TD
   end
   subgraph US_1789229530073["RO-08: armado de prototipo"]
     REQ_1789229530082["RF-01: armado de prototipo"]
+    REQ_1789745898072["RF-02: Implementacion de sistema de conduccion basico"]
   end
   subgraph US_1789229726512["RO-09: compra de los materiales"]
     REQ_1789229726537["RF-01: compra de los materiales"]
@@ -41,6 +42,7 @@ graph TD
   REQ_1789228786624 --> REQ_1789229144846
   REQ_1789228786624 --> REQ_1789229156293
   REQ_1789745304032 --> REQ_1789229530082
+  REQ_1789229530082 --> REQ_1789745898072
   REQ_1789229726537 --> REQ_1789745256476
   REQ_1789745256476 --> REQ_1789745304032
 ```
