@@ -1,6 +1,6 @@
 # Plan de Requerimientos — mauri_vad
 
-_Generado automáticamente el 2026-09-18T15:58:36.727Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-18T15:59:14.732Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -11,16 +11,17 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 3 | RF-01 | compra de los materiales | RO-09 | — | — | Hacer | mauri_vad | — | — |
 | 4 | RF-01 | Interfaz de carga de mapa virtual | HU-01 | — | — | Hacer | mauri_vad | — | — |
 | 5 | RF-02 | Sistema de registro a la app | HU-01 | — | — | Hacer | mauri_vad | — | — |
-| 6 | RF-01 | Reunion con el equipo de ingenieros (estudio de prefactibilidad) | RO-02 | — | — | Hecho | po-mv | RF-01 | — |
-| 7 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-06 | — | — | Hacer | tejada_electr_vad | RF-01 | — |
-| 8 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-07 | — | — | Hacer | victor_mec_vad | RF-01 | — |
-| 9 | RNF-01 | Revision de componentes por falta de stock | RO-09 | — | — | Hacer | mauri_vad | RF-01 | — |
-| 10 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | victor_mec_vad | RF-01 | — |
-| 11 | RF-01 | Presupuestacion parte electronica | RO-04 | — | Entrega de presupuesto de pre-factibilidad | Hacer | tejada_electr_vad | RF-01 | — |
-| 12 | RNF-01 | Presupuesto informatico | RO-02 | — | — | Hacer | mauri_vad | RF-01 | — |
-| 13 | RNF-02 | Compra consolidada | RO-09 | — | — | Hacer | mauri_vad | RNF-01 | — |
-| 14 | RF-01 | armado de prototipo | RO-08 | — | — | Hacer | mauri_vad | RNF-02 | — |
-| 15 | RF-02 | Implementacion de sistema de conduccion basico | RO-08 | — | — | Hacer | mauri_vad | RF-01 | — |
+| 6 | RF-03 | Sistema de recuperacion de contraseña | HU-01 | — | — | Hacer | mauri_vad | — | — |
+| 7 | RF-01 | Reunion con el equipo de ingenieros (estudio de prefactibilidad) | RO-02 | — | — | Hecho | po-mv | RF-01 | — |
+| 8 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-06 | — | — | Hacer | tejada_electr_vad | RF-01 | — |
+| 9 | RF-01 | cronograma de actividades y estimacion de costos en mano de obra. relacionado a la parte mecanica | RO-07 | — | — | Hacer | victor_mec_vad | RF-01 | — |
+| 10 | RNF-01 | Revision de componentes por falta de stock | RO-09 | — | — | Hacer | mauri_vad | RF-01 | — |
+| 11 | RF-01 | Presupuesto mecanico | RO-03 | — | Entrega de presupuesto de pre-factibilidad | Hacer | victor_mec_vad | RF-01 | — |
+| 12 | RF-01 | Presupuestacion parte electronica | RO-04 | — | Entrega de presupuesto de pre-factibilidad | Hacer | tejada_electr_vad | RF-01 | — |
+| 13 | RNF-01 | Presupuesto informatico | RO-02 | — | — | Hacer | mauri_vad | RF-01 | — |
+| 14 | RNF-02 | Compra consolidada | RO-09 | — | — | Hacer | mauri_vad | RNF-01 | — |
+| 15 | RF-01 | armado de prototipo | RO-08 | — | — | Hacer | mauri_vad | RNF-02 | — |
+| 16 | RF-02 | Implementacion de sistema de conduccion basico | RO-08 | — | — | Hacer | mauri_vad | RF-01 | — |
 
 ## Detalle
 
@@ -37,6 +38,9 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 - Estimado: 4h
 
 ### RF-02 — Sistema de registro a la app
+- Estimado: 4h
+
+### RF-03 — Sistema de recuperacion de contraseña
 - Estimado: 4h
 
 ### RF-01 — Reunion con el equipo de ingenieros (estudio de prefactibilidad)
