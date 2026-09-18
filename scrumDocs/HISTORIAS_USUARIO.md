@@ -1,6 +1,6 @@
 # Historias de Usuario -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T16:05:26.635Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T16:05:50.837Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: generacion de carga de mapas y puntos de ruteo
 
