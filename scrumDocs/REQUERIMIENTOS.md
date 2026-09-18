@@ -1,6 +1,6 @@
 # Requerimientos -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:27:55.090Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:28:26.383Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## RO-01: Reunion con Sebastian
 
@@ -65,3 +65,7 @@ la compra de los materiales implica la documentacion de la misma, incluyendo pro
 ### RNF-01: Revision de componentes por falta de stock (No funcional)
 
 el convertidor de usb a can fue remplazado por otro similar.
+
+### RNF-02: Compra consolidada (No funcional)
+
+Se acepto la revision de componentes
