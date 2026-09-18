@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- mauri_vad
 
-_Generado automaticamente el 2026-09-18T15:27:56.164Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-18T15:28:27.357Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -32,6 +32,7 @@ graph TD
   subgraph US_1789229726512["RO-09: compra de los materiales"]
     REQ_1789229726537["RF-01: compra de los materiales"]
     REQ_1789745256476["RNF-01: Revision de componentes por falta de stock"]
+    REQ_1789745304032["RNF-02: Compra consolidada"]
   end
   REQ_1789213601498 --> REQ_1789213867404
   REQ_1789213867404 --> REQ_1789513953383
@@ -40,4 +41,5 @@ graph TD
   REQ_1789228786624 --> REQ_1789229144846
   REQ_1789228786624 --> REQ_1789229156293
   REQ_1789229726537 --> REQ_1789745256476
+  REQ_1789745256476 --> REQ_1789745304032
 ```
